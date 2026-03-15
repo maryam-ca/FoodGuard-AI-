@@ -444,4 +444,4 @@ FoodGuard-AI demonstrates how **AI + Computer Vision + Cloud technologies** can 
 
 ---
 
-**Made with ❤️ for safer food and a healthier planet by Team Genix**
+**Made with ❤️ for safer food and a healthier planet by Team Anomalies**
