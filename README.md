@@ -79,6 +79,7 @@ Responsibilities:
 - Display Detection Results
 - Send Image Request to Backend API
 
+![image alt](https://github.com/maryam-ca/FoodGuard-AI-/blob/0a6d0065cbb5a799fa52a77ba0ce6b26b123690e/github%20post.png)
 ---
 
 ## Backend Layer
@@ -132,7 +133,6 @@ Output includes:
 | **Cloud Deployment** | Google Cloud Run |
 | **Development Tools** | Git, GitHub, VS Code |
 
-![image alt](https://github.com/maryam-ca/FoodGuard-AI-/blob/0a6d0065cbb5a799fa52a77ba0ce6b26b123690e/github%20post.png)
 
 ---
 
@@ -294,27 +294,6 @@ The model was trained on diverse datasets including:
 
 Each dataset contains multiple freshness stages.
 
----
-
-## Detection Capabilities
-
-| Capability | Description |
-|-----------|-------------|
-| Mold Detection | Identifies fungal growth patterns |
-| Color Analysis | Detects discoloration |
-| Texture Analysis | Detects surface degradation |
-| Structural Integrity | Detects shrinkage or breakdown |
-
----
-
-## Model Architecture
-
-- Model Type: **Convolutional Neural Network (CNN)**
-- Input Size: **224 × 224**
-- Output: **3-Class Softmax**
-- Training Accuracy: **~91%**
-- Validation Accuracy: **~89%**
-
 
 ---
 
@@ -404,7 +383,7 @@ npm test
 
 ---
 
-# 14. CONTRIBUTORS — TEAM GENIX
+# 14. CONTRIBUTORS — TEAM ANOMOLIES
 
 | Name | GitHub | Role |
 |----|----|----|
