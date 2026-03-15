@@ -126,7 +126,7 @@ Output includes:
 | Layer | Technology |
 |------|-----------|
 | **Frontend** | React.js, HTML5, CSS3, JavaScript |
-| **Backend** | Python, FastAPI, OpenCV |
+| **Backend** | Python, FastAPI |
 | **Machine Learning** | TensorFlow, Keras |
 | **AI Integration** | Google Gemini API |
 | **Cloud Deployment** | Google Cloud Run |
