@@ -339,7 +339,31 @@ npm test
 
 ---
 
-# 15. DISCLAIMER
+# 15. 📚 Project Resources
+
+### 🎥 Demo Video
+
+Watch the full working demonstration of **FoodGuard-AI**:
+
+[![FoodGuard-AI Demo](https://img.youtube.com/vi/2Opr_q1ve28/maxresdefault.jpg)](https://www.youtube.com/watch?v=2Opr_q1ve28)
+
+---
+
+### ✍️ Project Blog (Medium)
+
+Read the detailed article explaining the development process, architecture, and insights behind the project:
+
+🔗 https://medium.com/@ruhmmachaudhary/foodguard-ai-ca44d9c0712f
+
+---
+
+### 🌐 Project Documentation
+
+Complete project documentation and system architecture:
+
+🔗 https://food-guard-doc.vercel.app/
+
+# 16. DISCLAIMER
 
 FoodGuard-AI is designed for **demonstration and informational purposes only**.
 
@@ -349,7 +373,7 @@ If there is any doubt about food safety, always **discard the food**.
 
 ---
 
-# 16. ACKNOWLEDGMENT
+# 17. ACKNOWLEDGMENT
 
 We thank the **Google Gemini Live Agent Challenge** for providing a platform to build meaningful AI solutions.
 
