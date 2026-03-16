@@ -319,12 +319,13 @@ npm test
 
 | Name | GitHub | Role |
 |----|----|----|
-| **Maryam Fatima** | https://github.com/maryam-ca | Backend Integration, Documentation |
-| **Shahan Waheed** | https://github.com/Shahan-Waheed728 |Model Development, AI Integration,Backend |
-| **Kashan Saqib** | https://github.com/Kashan | Frontend Development |
-| **Mahad Nazir** | https://github.com/MahadNazir | Architecture Design, Research |
-| **Ruhmma Chaudhary** | [https://github.com/ruhmmachaudhary-rgb](https://github.com/ruhmmachaudhary-rgb) | Documentation, video editing |
-
+| Name | GitHub | Role | Contribution |
+|-----|-----|-----|-----|
+| **Maryam Fatima ⭐ (Team Lead)** | https://github.com/maryam-ca | Backend Developer | Backend Integration, Documentation |
+| Shahan Waheed | https://github.com/Shahan-Waheed728 | AI Engineer | Model Development, AI Integration, Backend |
+| Kashan Saqib | https://github.com/Kashan | Frontend Developer | Frontend Development |
+| Mahad Nazir | https://github.com/MahadNazir | System Architect | Architecture Design, Research |
+| Ruhmma Chaudhary | https://github.com/ruhmmachaudhary-rgb | Documentation & Media | Documentation, Video Editing |
 ---
 
 # 14. FUTURE ENHANCEMENTS
