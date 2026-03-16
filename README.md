@@ -376,7 +376,7 @@ If there is any doubt about food safety, always **discard the food**.
 
 We thank the **Google Gemini Live Agent Challenge** for providing a platform to build meaningful AI solutions.
 
-FoodGuard-AI demonstrates how **AI + Computer Vision + Cloud technologies** can be used to solve real-world problems such as food safety and waste reduction.
+FoodGuard-AI demonstrates how **AI + Gemini APIS + Cloud technologies** can be used to solve real-world problems such as food safety and waste reduction.
 
 ---
 
