@@ -81,7 +81,7 @@ Responsibilities:
 
 ![FoodGuard-AI System Architecture](diagram1.png)
 
-![FoodGuard-AI System Architecture](diagram2.png)
+![FoodGuard-AI System Architecture1](diagram2.png)
 
 ---
 
