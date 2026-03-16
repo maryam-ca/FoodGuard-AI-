@@ -69,57 +69,10 @@ This project demonstrates the practical application of **computer vision in ever
 
 # 4. SYSTEM ARCHITECTURE
 
-## User Interface Layer
-**Frontend (Web / Mobile Interface)**
 
-Responsibilities:
-
-- Image Upload or Camera Capture
-- User Interface Interaction
-- Display Detection Results
-- Send Image Request to Backend API
 
 ![image alt](https://github.com/maryam-ca/FoodGuard-AI-/blob/3a33844904c3cd11184b8d0333f252a4aa430471/Readme%20IMG.png)
 
----
-
-## Backend Layer
-
-Handles application logic and communication with AI services.
-
-Components:
-
-- API Endpoints
-- Image Handler
-- Preprocessing Logic
-- Request Processing
-- AI Model Invocation
-
----
-
-## AI Processing Layer
-
-Core intelligence of the system.
-
-Responsibilities:
-
-- Computer Vision Analysis
-- Pattern Recognition
-- Freshness Classification
-- Spoilage Detection
-
----
-
-## Response Layer
-
-Generates the final output returned to the user.
-
-Output includes:
-
-- Freshness Category
-- Confidence Score
-- Safety Recommendation
-- Visual Indicators
 
 ---
 
