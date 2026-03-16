@@ -360,7 +360,7 @@ If there is any doubt about food safety, always **discard the food**.
 
 # 16. ACKNOWLEDGMENT
 
-We are grateful to the #GeminiLiveAgentChallenge for giving us the opportunity to build this project. The challenge encouraged our team to think creatively and develop an AI-powered solution that combines modern web technologies with intelligent AI services.
+We are grateful to the [Gemini Live Agent Challenge]([https://your-link-here.com](https://devpost.com/software/foodguard-ai-znmxe4?ref_content=user-portfolio&ref_feature=in_progress)) for giving us the opportunity to build this project. The challenge encouraged our team to think creatively and develop an AI-powered solution that combines modern web technologies with intelligent AI services.
 
 Our system integrates a React-based frontend, a Python FastAPI backend, and AI capabilities powered by Google Gemini, creating a scalable architecture for processing requests and generating meaningful AI responses.
 
