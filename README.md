@@ -391,7 +391,7 @@ npm test
 | **Shahan Waheed** | https://github.com/Shahan-Waheed728 |Model Development, AI Integration,Backend |
 | **Kashan Saqib** | https://github.com/Kashan | Frontend Development |
 | **Mahad Nazir** | https://github.com/MahadNazir | Architecture Design, Research |
-| **Mahad Nazir** | https://github.com/MahadNazir | Documentation, video editing |
+| **Ruhmma Chaudhary** | [https://github.com/ruhmmachaudhary-rgb](https://github.com/ruhmmachaudhary-rgb) | Documentation, video editing |
 
 ---
 
