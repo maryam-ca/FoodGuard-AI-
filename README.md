@@ -317,10 +317,9 @@ npm test
 
 # 13. CONTRIBUTORS — TEAM ANOMOLIES
 
-| Name | GitHub | Role |
-|----|----|----|
+
 | Name | GitHub | Role | Contribution |
-|-----|-----|-----|-----|
+|------|--------|------|--------------|
 | **Maryam Fatima ⭐ (Team Lead)** | https://github.com/maryam-ca | Backend Developer | Backend Integration, Documentation |
 | Shahan Waheed | https://github.com/Shahan-Waheed728 | AI Engineer | Model Development, AI Integration, Backend |
 | Kashan Saqib | https://github.com/Kashan | Frontend Developer | Frontend Development |
