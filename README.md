@@ -306,7 +306,7 @@ npm test
 | Name | GitHub | Role | Contribution |
 |------|--------|------|--------------|
 | **Maryam Fatima ⭐ (Team Lead)** | https://github.com/maryam-ca | Backend Developer | Backend Integration, Documentation |
-| Shahan Waheed | https://github.com/Shahan-Waheed728 | AI Engineer | Model Development, AI Integration, Backend |
+| Shahan Waheed | https://github.com/Shahan-Waheed728 | AI Engineer | Cloud Deployment, AI Integration, Backend |
 | Kashan Saqib | https://github.com/Kashan | Frontend Developer | Frontend Development, App Deployment |
 | Mahad Nazir | https://github.com/MahadNazir | System Architect | Architecture Design, Research |
 | Ruhmma Chaudhary | https://github.com/ruhmmachaudhary-rgb | Documentation & Media | Documentation, Video Editing |
