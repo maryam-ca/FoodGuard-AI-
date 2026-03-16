@@ -130,10 +130,10 @@ Output includes:
 | Layer | Technology |
 |------|-----------|
 | **Frontend** | React.js, HTML5, CSS3, JavaScript |
-| **Backend** | Python, FastAPI |
-| **Machine Learning** | TensorFlow, Keras |
-| **AI Integration** | Google Gemini API |
-| **Cloud Deployment** | Google Cloud Run |
+| **Backend** | Python, FastAPI, Uvicorn |
+| **AI Integration** | Google Gemini APIs |
+| **Image Processing** | Pillow (Image Processing), NumPy |
+| **Cloud Deployment** | Docker, Google Cloud Build, Artifact Registry, Google Cloud Run |
 | **Development Tools** | Git, GitHub, VS Code |
 
 
