@@ -79,9 +79,10 @@ Responsibilities:
 - Display Detection Results
 - Send Image Request to Backend API
 
-![FoodGuard-AI System Architecture](system-architecture.png)
+![FoodGuard-AI System Architecture](diagram1.png)
 
-![image alt](https://github.com/maryam-ca/FoodGuard-AI-/blob/0a6d0065cbb5a799fa52a77ba0ce6b26b123690e/github%20post.png)
+![FoodGuard-AI System Architecture](diagram2.png)
+
 ---
 
 ## Backend Layer
