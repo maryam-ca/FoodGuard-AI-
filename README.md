@@ -212,23 +212,9 @@ Visual Indicators:
 
 ---
 
-# 8. AI MODEL DETAILS
-
-## Training Data
-
-The model was trained on diverse datasets including:
-
-- Fruits
-- Vegetables
-- Dairy products
-- Cooked foods
-
-Each dataset contains multiple freshness stages.
 
 
----
-
-# 9. API REFERENCE
+# 8. API REFERENCE
 
 ## POST /predict
 
@@ -268,7 +254,7 @@ Health check endpoint.
 
 ---
 
-# 10. GOOGLE CLOUD DEPLOYMENT
+# 9. GOOGLE CLOUD DEPLOYMENT
 
 Deploy backend using Google Cloud Run:
 
@@ -286,7 +272,7 @@ gcloud run deploy foodguard-backend \
 
 ---
 
-# 11. TESTING
+# 10. TESTING
 
 Backend Tests:
 
@@ -302,7 +288,7 @@ npm test
 
 ---
 
-# 12. TROUBLESHOOTING
+# 11. TROUBLESHOOTING
 
 | Issue | Solution |
 |------|---------|
@@ -314,7 +300,7 @@ npm test
 
 ---
 
-# 13. CONTRIBUTORS — TEAM ANOMOLIES
+# 12. CONTRIBUTORS — TEAM ANOMOLIES
 
 
 | Name | GitHub | Role | Contribution |
@@ -326,7 +312,7 @@ npm test
 | Ruhmma Chaudhary | https://github.com/ruhmmachaudhary-rgb | Documentation & Media | Documentation, Video Editing |
 ---
 
-# 14. FUTURE ENHANCEMENTS
+# 13. FUTURE ENHANCEMENTS
 
 | Enhancement | Description |
 |-----------|-------------|
@@ -338,7 +324,7 @@ npm test
 
 ---
 
-# 15. 📚 Project Resources
+# 14. 📚 Project Resources
 
 ### 🎥 Demo Video
 
@@ -362,7 +348,7 @@ Complete project documentation and system architecture:
 
 🔗 https://food-guard-doc.vercel.app/
 
-# 16. DISCLAIMER
+# 15. DISCLAIMER
 
 FoodGuard-AI is designed for **demonstration and informational purposes only**.
 
@@ -372,7 +358,7 @@ If there is any doubt about food safety, always **discard the food**.
 
 ---
 
-# 17. ACKNOWLEDGMENT
+# 16. ACKNOWLEDGMENT
 
 We thank the **Google Gemini Live Agent Challenge** for providing a platform to build meaningful AI solutions.
 
