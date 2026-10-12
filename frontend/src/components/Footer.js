@@ -65,13 +65,13 @@ function Footer() {
 
           <div>
             <h4 style={{ color: "white", marginBottom: "1rem" }}>Contact</h4>
-            <p style={{ color: "#94a3b8", marginBottom: "0.5rem" }}>support@foodguard.ai</p>
-            <p style={{ color: "#94a3b8" }}>+1 (555) 123-4567</p>
+            <p style={{ color: "#94a3b8", marginBottom: "0.5rem" }}>info@codecortexdigital.com.ai</p>
+            <p style={{ color: "#94a3b8" }}>+92 (315) 7227688</p>
           </div>
         </div>
 
         <div style={copyrightStyle}>
-          © 2024 FoodGuard AI. All rights reserved.
+          © 2026 FoodGuard AI. All rights reserved.
         </div>
       </div>
     </footer>
