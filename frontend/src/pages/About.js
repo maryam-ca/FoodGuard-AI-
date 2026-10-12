@@ -3,11 +3,11 @@ import React from "react";
 function About() {
   const team = [
     {
-      name: "Maryam Fatima",
+      name: "Maryam",
       role: "Project Lead, Backend Integration & Documentation",
     },
     {
-      name: "Shahan Waheed",
+      name: "Samra",
 
       role: "Model Development, AI Integration & Backend",
 
@@ -15,17 +15,10 @@ function About() {
       // feedc34 (Add architecture diagrams)
     },
     {
-      name: "Kashan Saqib",
+      name: "Sundas",
       role: "Frontend Development & App Deployment",
     },
-    {
-      name: "Mahad Nazir",
-      role: "System Architecture & Research",
-    },
-    {
-      name: "Ruhmma Chaudhary",
-      role: "Documentation & Video Production",
-    },
+    
   ];
 
   const containerStyle = {
