@@ -104,19 +104,19 @@ function Contact({ showToast }) {
         <div className="card" style={infoCardStyle}>
           <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>📍</div>
           <h3 style={{ color: "#059669", marginBottom: "0.5rem" }}>Visit Us</h3>
-          <p style={{ color: "#94a3b8" }}>123 Tech Street<br />San Francisco, CA 94105</p>
+          <p style={{ color: "#94a3b8" }}>Codecortex<br />PK, 722145</p>
         </div>
 
         <div className="card" style={infoCardStyle}>
           <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>📧</div>
           <h3 style={{ color: "#059669", marginBottom: "0.5rem" }}>Email Us</h3>
-          <p style={{ color: "#94a3b8" }}>support@foodguard.ai<br />info@foodguard.ai</p>
+          <p style={{ color: "#94a3b8" }}>info@codecortexdigital.com<br />info@codecortexdigital.com</p>
         </div>
 
         <div className="card" style={infoCardStyle}>
           <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>📞</div>
           <h3 style={{ color: "#059669", marginBottom: "0.5rem" }}>Call Us</h3>
-          <p style={{ color: "#94a3b8" }}>+1 (555) 123-4567<br />Mon-Fri, 9am-6pm</p>
+          <p style={{ color: "#94a3b8" }}>92 (315) 7227688<br />Mon-Fri, 9am-5pm</p>
         </div>
       </div>
 
@@ -133,7 +133,7 @@ function Contact({ showToast }) {
               value={formData.name}
               onChange={handleChange}
               className={`input-field ${errors.name ? "error" : ""}`}
-              placeholder="John Doe"
+              placeholder="John"
             />
             {errors.name && (
               <p style={{ color: "#dc2626", fontSize: "0.875rem", marginTop: "0.25rem" }}>
