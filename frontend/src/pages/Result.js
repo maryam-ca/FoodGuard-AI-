@@ -22,6 +22,7 @@ function Result() {
       // Auto play after 500ms
       setTimeout(() => playAudio(storedAudio), 500);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const playAudio = (url) => {

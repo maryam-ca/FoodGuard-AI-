@@ -8,9 +8,6 @@ function About() {
     },
     {
       name: "Samra",
-
-      role: "Model Development, AI Integration & Backend",
-
       role: "Model Development, Backend, audio facility",
       // feedc34 (Add architecture diagrams)
     },

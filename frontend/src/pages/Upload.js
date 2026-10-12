@@ -19,6 +19,7 @@ function Upload({ showToast }) {
   // Check backend connection on component mount
   useEffect(() => {
     checkBackendConnection();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const checkBackendConnection = async () => {

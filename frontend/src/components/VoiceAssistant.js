@@ -12,6 +12,7 @@ function VoiceAssistant({ audioBlob, onClose }) {
         playAudio();
       }, 500);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [audioBlob]);
 
   const playAudio = () => {
